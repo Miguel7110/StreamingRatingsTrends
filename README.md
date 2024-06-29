@@ -1,4 +1,4 @@
-# StreamingDataAnalysis
+# StreamingRatingsTrends
 
 Este proyecto se centra en el análisis de datos de una plataforma de streaming global para obtener insights estratégicos que mejoren su rendimiento. Se analizan la evolución del rating por tipo de contenido, el rating promedio por género, los géneros que proporcionan mayor retorno de inversión (ROI) y los países con mayor producción de contenido. Con base en estos análisis, se ofrecen recomendaciones para optimizar la producción y maximizar el ROI, atrayendo nuevos usuarios y reteniendo a los existentes.
 
